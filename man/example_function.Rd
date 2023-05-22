@@ -10,5 +10,5 @@ example_function()
 This is an example function.
 }
 \examples{
-cat_function()
+example_function()
 }
