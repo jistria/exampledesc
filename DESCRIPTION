@@ -11,6 +11,8 @@ Authors@R:
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
-Imports: data.table
-Remotes:  github::Rdatatable/data.table@88039186915028ab3c93ccfd8e22c0d1c3534b1a
+Imports: 
+    shinydashboardPlus
+Remotes: 
+    github::RinteRface/shinydashboardPlus@96d01501d8b463d8624598699d93e26363ff3a76
 RoxygenNote: 7.2.2
