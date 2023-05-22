@@ -14,5 +14,5 @@ Encoding: UTF-8
 Imports:
     data.table
 Remotes:
-    gitlab@github.com::Rdatatable/data.table@88039186915028ab3c93ccfd8e22c0d1c3534b1a
+    github@github.com::Rdatatable/data.table@88039186915028ab3c93ccfd8e22c0d1c3534b1a
 RoxygenNote: 7.2.2
