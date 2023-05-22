@@ -13,6 +13,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: 
     shinydashboardPlus
+    , data.table
 Remotes: 
-    github::RinteRface/shinydashboardPlus@96d01501d8b463d8624598699d93e26363ff3a76
+    github::RinteRface/shinydashboardPlus@96d01501d8b463d8624598699d93e26363ff3a76, 
+    github::Rdatatable/data.table
 RoxygenNote: 7.2.2
